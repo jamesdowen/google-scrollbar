@@ -1,4 +1,4 @@
-google-scollbar
+google-scrollbar
 ===============
 
 A simple Google-style scrollbar, built with CSS3, which I always use on websites I create.
